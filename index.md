@@ -14,9 +14,9 @@ University of Manitoba, Winnipeg Manitoba
 **Developer tools:** Android Studio, Visual Studio Code, UNIX/Linux Shell, PostgreSQL
 ## Projects
 ---
-* **Little Chef** | Software Engineering
+* **Little Chef** - Software Engineering
     *  An Android application for people wishing to store various cooking recipes. Written in Java using Android Studio and developed with a team following Agile practices with Test-Driven Development.  
-* **Scheduling System** | Human Computer Interaction
+* **Scheduling System** - Human Computer Interaction
     *  A scheduling system for making appointments using    JavaScript, HTML, and CSS. Created with a team using
 strategies in designer ideation, prototyping, and evaluation.
 
