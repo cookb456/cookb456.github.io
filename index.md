@@ -1,5 +1,7 @@
-
-Bradley Cook  
+---
+title: Bradley's Resume 
+---
+  
 204-250-7270 | Brad_Cook0@outlook.com
 
 
