@@ -1,7 +1,4 @@
 
-baseurl: "cookb456.github.io" # the subpath of your site, e.g. /blog
-#ENSURE THIS IS EMPTY IF RUNNING LOCALLY
-
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll
