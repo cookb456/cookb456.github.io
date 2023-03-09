@@ -1,5 +1,5 @@
 
-## Bradley Cook  
+Bradley Cook  
 204-250-7270 | Brad_Cook0@outlook.com
 
 
